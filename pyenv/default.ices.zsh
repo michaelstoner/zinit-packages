@@ -9,7 +9,7 @@ NAME='zsh-pyenv'
 PARAM_DEFAULT=''
 REQUIREMENTS=''
 URL='https://github.com/pyenv/pyenv'
-VERSION='2.2.2'
+VERSION='2.3.29'
 
 zinit \
     id-as'pyenv/pyenv' \
